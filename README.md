@@ -15,10 +15,10 @@ Sentinel-2, SRTM et ERA5.
 **Métrique principale** : R²
 
 ## Fichiers fournis
-1/ `data/train.csv` | Données d'entraînement avec `fire_risk` |
-2/ `data/validation.csv` | Données de validation avec `fire_risk` | 
-3/ `data/test.csv` | Données de test **SANS** `fire_risk` |
-4/ `data/README.txt` | Description complète des variables |
+1/ |`data/train.csv` | Données d'entraînement avec `fire_risk` |
+2/ |`data/validation.csv` | Données de validation avec `fire_risk` | 
+3/ |`data/test.csv` | Données de test **SANS** `fire_risk` |
+4/ |`data/README.txt` | Description complète des variables |
 
 ⚠️ Ces données sont **strictement confidentielles**.
 Elles ne doivent pas être partagées, redistribuées
