@@ -15,7 +15,7 @@ Sentinel-2, SRTM et ERA5.
 **Métrique principale** : R²
 
 ## Fichiers fournis
-1/ |`data/train.csv` | Données d'entraînement avec `fire_risk` |
+1/ |`data/train.csv` | Données d'entraînement avec `fire_risk` |[⬇️ Télécharger](https://github.com/saracharrada/FORFIRE-AI-Challenge/releases/tag/v1.0.0)
 2/ |`data/validation.csv` | Données de validation avec `fire_risk` | 
 3/ |`data/test.csv` | Données de test **SANS** `fire_risk` |
 4/ |`data/README.txt` | Description complète des variables |
