@@ -39,7 +39,6 @@ ou publiées en dehors de ce challenge.
 1. **Forkez** ce dépôt
 2. Créez le dossier `submissions/NomEquipe/`
 3. Ajoutez votre fichier `submission.csv`
-4. Ajoutez un fichier `approche.md`
 5. Ouvrez une **Pull Request** avec le titre :
    `[SOUMISSION] NomEquipe — R²=0.XXX`
 
